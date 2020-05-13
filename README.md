@@ -1,25 +1,5 @@
 # Open Space Software Development
 
-* Hashtags: #osswdev & #javaland
-* Introduction: https://www.codecentric.de/2015/03/18/javaland-openspace-software-development/
-
-## Application Links
-
-| Environment         | Link          | 
-| ------------------- |:-------------:|
-| Production | currently unavailable |
-| Staging    | currently unavailable | 
-| Test       | currently unavailable |
-
-
-## Infrastructure Links
-
-* Continuous Delivery Build Pipeline **http://osswdev.codecentric.de/jenkins/view/Pipeline/**
-* SonarQube SQM **http://osswdev.codecentric.de/sonarqube/dashboard/index/1**
-* Artifact Repository **http://osswdev.codecentric.de/artifactory**
-* Spring Boot Admin Client **http://osswdev.codecentric.de/adminclient**
-* Amazon EC2 Dashboard **http://osswdev.codecentric.de/jenkins/view/Deployment%20Dashboard/**
-
 ## Developer Quickstart
 
 ```
@@ -37,3 +17,11 @@ http://localhost:8080
 
 ### Open Monitoring App
 http://localhost:8888
+
+#### Credits (c)
+
+Original version by [www.codecentric.de](https://www.codecentric.de): [codecentric/conference-app](https://github.com/codecentric/conference-app).
+
+Original article: [Javaland OpenSpace Software Development](https://www.codecentric.de/2015/03/18/javaland-openspace-software-development/)
+
+This version introduced new features like Jenkins Seed & Pipelines.
